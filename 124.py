@@ -1,8 +1,6 @@
 def main():
-    print("My first git progress")
+    print('My first git program')
 
-print("22222")
 
-ag
-agfdgfa
-ewwtqewga
+if __name__ == '__main__':
+    main()
